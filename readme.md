@@ -1,4 +1,4 @@
-#Bytesize  
+Bytesize  
   
 A pet project to help me (and others) understand how heavy specific scans are on a network.  
   
