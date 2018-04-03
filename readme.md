@@ -6,7 +6,7 @@ Usage:
 python3 bytesize.py -t xxx.xxx.xxx.xxx  
   
 Currently:  
-Allows custom scans in config file, use '<ip>' where the target would lie  
+Allows custom scans in config file, use `<ip>` where the target would lie  
 Performs scans on the target  
 Outputs in terminal  
   
